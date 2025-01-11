@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1618488457 source:c:\users\admin\onedrive - college of engineering pune(an autonomous institute of govt. of maharashtra)\desktop\dsa-ii\111903068\array.c
+	"Array.h"
+	<stdio.h>
+	<stdlib.h>
+
+1618478067 c:\users\admin\onedrive - college of engineering pune(an autonomous institute of govt. of maharashtra)\desktop\dsa-ii\111903068\array.h
+
+1619084334 source:c:\users\admin\onedrive - college of engineering pune(an autonomous institute of govt. of maharashtra)\desktop\dsa-ii\111903068\dict.c
+	<stdio.h>
+	<stdlib.h>
+	"dict.h"
+	<string.h>
+
+1618495892 c:\users\admin\onedrive - college of engineering pune(an autonomous institute of govt. of maharashtra)\desktop\dsa-ii\111903068\dict.h
+
+1618488457 source:c:\users\admin\onedrive - college of engineering pune(an autonomous institute of govt. of maharashtra)\desktop\dsa-ii\111903068\linked.c
+	"linked.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1618488457 c:\users\admin\onedrive - college of engineering pune(an autonomous institute of govt. of maharashtra)\desktop\dsa-ii\111903068\linked.h
+
+1619017155 source:c:\users\admin\onedrive - college of engineering pune(an autonomous institute of govt. of maharashtra)\desktop\dsa-ii\111903068\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bogglesolver.h"
+	<windows.h>
+
+1619080700 c:\users\admin\onedrive - college of engineering pune(an autonomous institute of govt. of maharashtra)\desktop\dsa-ii\111903068\bogglesolver.h
+	"Array.h"
+	"dict.h"
+	"linked.h"
+
+1618841413 source:c:\users\admin\onedrive - college of engineering pune(an autonomous institute of govt. of maharashtra)\desktop\dsa-ii\111903068\bogglesolver.c
+	"bogglesolver.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
